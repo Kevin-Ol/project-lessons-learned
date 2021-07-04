@@ -2,6 +2,8 @@
 
 ![Lessons_learned](https://user-images.githubusercontent.com/82068881/124369908-6928c380-dc47-11eb-9c3b-4d1581a02310.png)
 ***
+Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-lessons-learned/).
+
 Foram utilizadas as tecnologias HTML e CSS.
 
 O objetivo do projeto foi consolidar o conhecimento em HTML e CSS.

@@ -1,0 +1,79 @@
+body {
+    background-color:rgb(253, 251, 251);
+    font-size: 20px;
+    color: rgb(33, 39, 56);
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    margin-left: 0;
+}
+
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    text-align: center;
+    background-color: rgb(42, 52, 162);
+    color: white;
+    border: 4px solid black;
+    padding: 5px;
+}
+
+img#minha_foto {
+    display: block;
+    width:300px;
+    margin-top:150px;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+article {
+    width: 50%;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+aside {
+    display: inline-block;
+    width: 30%;
+    margin-left: 5%;
+    vertical-align: top;
+}
+
+section.listas ol, section.listas ul {
+    display: inline-block;
+    margin-left: 5%;
+}
+
+section.listas ul {
+    right: 0;
+}
+
+footer {
+    left: 0;
+    width:100%;
+    text-align: right;
+    background-color: rgb(42, 52, 162);
+    color: white;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    clear: both;
+}
+
+table {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: bottom;
+}
+
+table, th, td {
+    border: 1px solid black
+}
